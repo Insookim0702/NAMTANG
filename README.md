@@ -47,10 +47,11 @@
 > - 퇴실 버튼만 **Click** 하면됨. 
 ![enter image description here](https://user-images.githubusercontent.com/42515875/45603708-3ba80680-ba69-11e8-8894-cff201cc00a7.png)
 <br>
+
 ## 관리자 로그인
+
 ![enter image description here](https://user-images.githubusercontent.com/42515875/46915654-406cc580-cfe9-11e8-9d83-36f1a3ac658c.png)
 
-<br>
 
 ## 관리자 권한으로 다른 관리자 가입시키기<br>
 > - JSP/CSS 직접 구현.
