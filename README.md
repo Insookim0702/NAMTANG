@@ -49,7 +49,8 @@
 <br>
 
 ## 관리자 로그인
-
+> - bootstap API 수정해서 사용해서 form 구현.
+> - 관리자 admin계정으로 로그인 가능.
 ![enter image description here](https://user-images.githubusercontent.com/42515875/46915654-406cc580-cfe9-11e8-9d83-36f1a3ac658c.png)
 
 
