@@ -32,5 +32,5 @@
         legend: { position: "relative" },
       };
       var chart = new google.visualization.ColumnChart(document.getElementById("chart_div"));
-      chart.draw(view, options);
+      chart.draw(view, options); 
   }
