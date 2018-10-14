@@ -36,7 +36,7 @@
             <br><h2>LOGIN</h2><hr>
                 <div class="panel-title">환영합니다!</div>
             </div>
-            <div class="panel-body">
+            <div class="panel-body"> 
                 <form method="post" action ="../loginlogout?command=login">
                     <div>
                         <input type="text" class="form-control" id ="id" name ="id" placeholder="Username" autofocus>
