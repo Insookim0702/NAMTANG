@@ -48,13 +48,16 @@
 ![enter image description here](https://user-images.githubusercontent.com/42515875/45603708-3ba80680-ba69-11e8-8894-cff201cc00a7.png)
 <br>
 ## 관리자 로그인
->![enter image description here](https://user-images.githubusercontent.com/42515875/46915654-406cc580-cfe9-11e8-9d83-36f1a3ac658c.png)
+![enter image description here](https://user-images.githubusercontent.com/42515875/46915654-406cc580-cfe9-11e8-9d83-36f1a3ac658c.png)
+
+<br>
+
 ## 관리자 권한으로 다른 관리자 가입시키기<br>
 > - JSP/CSS 직접 구현.
 >  - 중복확인 기능.
 >  - id는 admin+번호 입력으로 가능.
 >   - **비밀번호** 및 **비밀번호 확인** 판별.
->    ![enter image description here](https://user-images.githubusercontent.com/42515875/45603720-4ebad680-ba69-11e8-889f-fe0e908da003.png)
+>  ![enter image description here](https://user-images.githubusercontent.com/42515875/45603720-4ebad680-ba69-11e8-889f-fe0e908da003.png)
 
 
 ## 데이터베이스 
