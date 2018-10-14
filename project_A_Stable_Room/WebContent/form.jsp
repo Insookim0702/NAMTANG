@@ -104,7 +104,7 @@
 			      <c:if test="${it != 'true'}"><a href =jsp/register.jsp?no=5><img src = "image/bedempty5.png" id="bed5" ></a></c:if> 
 			      <c:if test="${it eq 'true'}"><a href = jsp/out.jsp?no=5><img id ="usingbed5" src = "image/bed5.png" width ="310px"></a></c:if></td>
 		</tr>
-			
+			 
 			<tr><td><c:set var ="it" value ="${requestScope.bednum2}"/>
 			      <c:if test="${it != 'true'}"><a href =jsp/register.jsp?no=2><img src = "image/bedempty2.png" id="bed2"></a></c:if> 
 			      <c:if test="${it eq 'true'}"><a href = jsp/out.jsp?no=2><img id ="usingbed2" src = "image/bed2.png" width ="310px"></a></c:if></td>
