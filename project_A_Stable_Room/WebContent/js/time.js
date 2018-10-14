@@ -36,4 +36,4 @@ $(document).ready(function(){
 	 		$clock.text(ampm +"   "+hour+" 시 " + minutes+" 분 " + seconds + "  초");},500);
 	 		
 	 	
- }//clock
+ }//clock 
