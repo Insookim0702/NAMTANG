@@ -36,7 +36,7 @@ $(function(){
 	
 			
 	/* =================상단 메뉴창 hover달기===================== */
-		$('#login').on('mouseover',function(){
+		$('#login').on('mouseover',function(){ 
 			$(this).attr('src','image/로그인호버.png');
 			$('#logintd').attr('background-color','white');
 		})
