@@ -26,13 +26,13 @@
 ## 일반 사용자가 보는 페이지
 >  - 입퇴실 처리 불가능.
 >  - 입퇴실 현황만 확인 가능.
->   ![일반 사용자 페이지](https://user-images.githubusercontent.com/42515875/45603702-334fcb80-ba69-11e8-9952-9d987e2d4962.png)
+>   ![일반 사용자 페이지](https://user-images.githubusercontent.com/42515875/46915658-495d9700-cfe9-11e8-8818-b7d2432169f5.png)
  
  
  ## 관리자가 보는 페이지
  > - 입퇴실 관리 가능.
  >  - 관리자 회원가입 가능.
- > ![enter image description here](https://user-images.githubusercontent.com/42515875/45603977-a1e15900-ba6a-11e8-98d6-2b02b9ffea2b.png)
+ > ![enter image description here](https://user-images.githubusercontent.com/42515875/46915656-4367b600-cfe9-11e8-9a42-02641ea63baf.png)
 
 ## 입실 등록
 
@@ -47,7 +47,8 @@
 > - 퇴실 버튼만 **Click** 하면됨. 
 ![enter image description here](https://user-images.githubusercontent.com/42515875/45603708-3ba80680-ba69-11e8-8894-cff201cc00a7.png)
 <br>
-
+## 관리자 로그인
+>![enter image description here](https://user-images.githubusercontent.com/42515875/46915654-406cc580-cfe9-11e8-9d83-36f1a3ac658c.png)
 ## 관리자 권한으로 다른 관리자 가입시키기<br>
 > - JSP/CSS 직접 구현.
 >  - 중복확인 기능.
@@ -62,5 +63,5 @@
 ![enter image description here](https://user-images.githubusercontent.com/42515875/45915987-6f37c600-be99-11e8-90d0-1e1393e42545.png)
 > - 입퇴실 현황을 저장하는 테이블
 
-
+>
 ![enter image description here](https://user-images.githubusercontent.com/42515875/45916005-b02fda80-be99-11e8-83c7-1c164846ba66.png)
