@@ -21,7 +21,7 @@
 		<tr colspan="2"><td align ="left" colspan="2">관리자 아이디. </td></tr>
 		<tr><td colspan="2"><input type ="text" id="id" name ="id" required autofocus placeholder="admin+학번 또는 사번" ></td></tr> <!-- onkeydown="inputIdChk()" -->
 		<tr><td colspan="2"><input type ="image" onclick ="openIdChk()" src ="../image/중복확인.png" height="100%">
-							<input type ="hidden" id = "idDuplication" value="idUncheck">
+		<input type ="hidden" id = "idDuplication" value="idUncheck">
 		</td></tr>
 		<tr><td align="left" colspan="2"> 비밀번호. </td></tr>
 		<tr><td colspan="2"><input type ="password" id ="pw" name ="pw"  required placeholder="비밀번호를 입력하세요."></td></tr>
@@ -37,7 +37,6 @@
 		<tr colspan="2"><td width="80%"><input  height="100%" type ="text" id ="nick" name ="nick" ></td><td width="20%"><input  width="98%" type ="button" id = "nickchangebtn" ></td></tr>
 		<tr colspan ="2"><td></td></tr>
 		<tr><td colspan="2"><input  id ="check" type ="image" src="../image/signup.png" value="가입" height="100%"></td></tr> 
-	
 	</table>
 	</div>
 </form>
