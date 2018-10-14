@@ -40,7 +40,7 @@
       text-align: left;
     }
      
-    div > #paging {
+    div > #paging { 
       text-align: center;
     }
      
