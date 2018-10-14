@@ -15,13 +15,13 @@ function checkValue(){
 		return false;
 	}
 	if(isNAN(form.birth.value)){
-		alert("생일은 수자만 입력가능합니다.\n EX)930602");
+		alert("생일은 숫자만 입력가능합니다.\n EX)930602");
 		return false;
 	}
 	
 }
 /*아이디 중복체크 화면 Open*/
-function openIdChk(){
+function openIdChk(){ 
 	window.name ="parentForm";
 	window.open("IdCheckForm.jsp",
 			"chkForm",
