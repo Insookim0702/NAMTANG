@@ -25,7 +25,7 @@ position:absolute;
     font-color:white;
     background: red;
     transform:translate(-50%, -50%);
-}
+} 
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -33,26 +33,26 @@ position:absolute;
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src = "../js/IdCheckForm.js"></script>
-<title>¾ÆÀÌµğ Áßº¹È®ÀÎ</title>
+<title>ì•„ì´ë”” ì¤‘ë³µí™•ì¸</title>
 </head>
 <body onload ="pValue()">
 <div id ="wrap">
 	<br>
-	<p class="text-center"><font size ="4" color ="white">¾ÆÀÌµğ Áßº¹Ã¼Å©</font></p>
+	<p class="text-center"><font size ="4" color ="white">ì•„ì´ë”” ì¤‘ë³µì²´í¬</font></p>
 	<hr size ="1" width ="460">
 	<br><br><br>
 	<div id ="chk">
 		<!-- <form id ="checkForm"> -->
 			<div class="form-group" >
     			 <form id ="checkForm">
-    			  <label for="inputsm"><font size ="4" color ="white">ÀÔ·ÂµÈ ¾ÆÀÌµğ</font></label>
+    			  <label for="inputsm"><font size ="4" color ="white">ì…ë ¥ëœ ì•„ì´ë””</font></label>
     				<input  class="form-control input-lg" name ="idinput" id ="userId" type="text"><br>
     				<div class="col-sm-3" style="text-align:center;" >
-    				<input class="btn btn-default" type ="button" value="Áßº¹È®ÀÎ" onclick="idCheck()">
+    				<input class="btn btn-default" type ="button" value="ì¤‘ë³µí™•ì¸" onclick="idCheck()">
     			</form>
     			<div id ="msg"></div><br>
-					<input class="btn btn-default" id ="cancleBtn" type ="button" value="Ãë¼Ò" onclick="window.close()"><br>
-					<input class="btn btn-default" id ="useBtn" type="button" value="»ç¿ëÇÏ±â" onclick="sendCheckValue()">
+					<input class="btn btn-default" id ="cancleBtn" type ="button" value="ì·¨ì†Œ" onclick="window.close()"><br>
+					<input class="btn btn-default" id ="useBtn" type="button" value="ì‚¬ìš©í•˜ê¸°" onclick="sendCheckValue()">
   			
   					</div>
   			</div>
@@ -61,8 +61,8 @@ position:absolute;
 		
 		<!-- <div id ="msg"></div>
 		<br>
-		<input id ="cancleBtn" type ="button" value="Ãë¼Ò" onclick="window.close()"><br>
-		<input id ="useBtn" type="button" value="»ç¿ëÇÏ±â" onclick="sendCheckValue()"> -->
+		<input id ="cancleBtn" type ="button" value="ì·¨ì†Œ" onclick="window.close()"><br>
+		<input id ="useBtn" type="button" value="ì‚¬ìš©í•˜ê¸°" onclick="sendCheckValue()"> -->
 		
 	</div>
 </div>
