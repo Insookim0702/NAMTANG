@@ -8,5 +8,5 @@
 </head>
 <body>
 	${requestScope.msg}
-</body>
+</body> 
 </html>
