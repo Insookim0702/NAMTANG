@@ -4,7 +4,7 @@
 	<c:forEach items="${requestScope.allData }" var="data">
 		<tr>
 			<td>${data.today}</td>
-			<td>${data.id}</td>
+			<td>${data.id}</td> 
 			<td>${data.name}</td>
 			<td>${data.major}</td>
 			<td>${data.phone}</td>
