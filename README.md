@@ -35,7 +35,7 @@
  ## 관리자가 보는 페이지
  > - 입퇴실 관리 가능.
  >  - 관리자 회원가입 가능.
- > ![enter image description here](https://user-images.githubusercontent.com/42515875/46915656-4367b600-cfe9-11e8-9a42-02641ea63baf.png)
+ > ![enter image description here](https://user-images.githubusercontent.com/42515875/53861573-e61be200-4027-11e9-8e26-0c43602fbfb0.png)
 
 ## 입실 등록
 
