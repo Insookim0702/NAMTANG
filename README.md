@@ -29,7 +29,7 @@
 ## 일반 사용자가 보는 페이지
 >  - 입퇴실 처리 불가능.
 >  - 입퇴실 현황만 확인 가능.
->   ![일반 사용자 페이지](https://user-images.githubusercontent.com/42515875/46915658-495d9700-cfe9-11e8-8818-b7d2432169f5.png)
+>   ![일반 사용자 페이지](https://user-images.githubusercontent.com/42515875/53861745-65111a80-4028-11e9-8090-5a9788de5f84.png)
  
  
  ## 관리자가 보는 페이지
